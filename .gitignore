@@ -1,0 +1,12 @@
+q1_event_logger/event_logger
+q2_command_registry/command_registry
+q3_dependency_graph/dependency_graph
+q4_supply_routing/supply_routing
+q5_log_compression/log_compressor
+
+*.dSYM/
+event_session.txt
+audit.log
+registry_session.log
+device_log.huff
+device_log_restored.txt
